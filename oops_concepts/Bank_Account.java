@@ -13,7 +13,9 @@ public class Bank_Account {
 	 * 6. Call the methods to deposit and withdraw the money from Bank Account and Display the current Balance
 	 */
 	
+	@SuppressWarnings("unused")
 	private long acNo;
+	@SuppressWarnings("unused")
 	private String acName;
 	private double acBalance;
 	
